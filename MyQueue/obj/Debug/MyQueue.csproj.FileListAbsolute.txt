@@ -1,0 +1,6 @@
+C:\Users\DELL\RiderProjects\MyQueue\MyQueue\obj\Debug\MyQueue.csproj.AssemblyReference.cache
+C:\Users\DELL\RiderProjects\MyQueue\MyQueue\obj\Debug\MyQueue.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\MyQueue\MyQueue\bin\Debug\MyQueue.exe
+C:\Users\DELL\RiderProjects\MyQueue\MyQueue\bin\Debug\MyQueue.pdb
+C:\Users\DELL\RiderProjects\MyQueue\MyQueue\obj\Debug\MyQueue.exe
+C:\Users\DELL\RiderProjects\MyQueue\MyQueue\obj\Debug\MyQueue.pdb
