@@ -16,10 +16,10 @@ En el siguiente proyecto se desarrollo un lista dinamica de tipo cola en el leng
 
 ### Funcionalidades
 
-- push(data): Agrega un nuevo nodo con el dato en la parte superior de la cola.
-- pop(): Elimina y retorna el dato del nodo en la parte superior de la cola. Si la cola está vacía, lanza una excepción.
-- peek(): Retorna el dato del nodo en la parte superior de la cola sin eliminarlo. Si la cola está vacía, lanza una excepción.
-- is_empty(): Verifica si la pila está vacía.
+- Enqueue(data): Agrega un nuevo nodo con el dato en la parte superior de la cola.
+- Dequeue(): Elimina y retorna el dato del nodo en la parte superior de la cola. Si la cola está vacía, lanza una excepción.
+- Peek(): Retorna el dato del nodo en la parte superior de la cola sin eliminarlo. Si la cola está vacía, lanza una excepción.
+- Is_empty(): Verifica si la pila está vacía.
   
 ### Recomendaciones:
 
